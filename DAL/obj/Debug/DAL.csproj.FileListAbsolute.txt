@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\architecture 3-Tiers\DAL\bin\Debug\DAL.dll
+C:\Users\User\source\repos\architecture 3-Tiers\DAL\bin\Debug\DAL.pdb
+C:\Users\User\source\repos\architecture 3-Tiers\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\architecture 3-Tiers\DAL\obj\Debug\DAL.dll
+C:\Users\User\source\repos\architecture 3-Tiers\DAL\obj\Debug\DAL.pdb
+C:\Users\User\source\repos\architecture 3-Tiers\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
